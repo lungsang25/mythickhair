@@ -1,0 +1,13 @@
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/hair_regrowth_app
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/lungsang/Project/mythickhair/hair_regrowth_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
